@@ -1,6 +1,6 @@
 import './App.css';
 import Header from './components/Header/Header';
-import RecomendedVideos from './components/ReccomendedVideos/RecomendedVideos';
+import RecomendedVideos from './components/RecomendedVideos/RecomendedVideos';
 import Sidebar from './components/Sidebar/Sidebar';
 
 

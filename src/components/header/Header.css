@@ -19,12 +19,18 @@
     display: flex;
     align-items: center;
     width: 40%;
+    height: 30px;
     border: 1px solid lightgray;
+    
 }
+
 .header-input > input{
     flex: 1;
     border: none;
+    outline: none;
+
 }
+
 .header-input-button{
     width: 20% !important; 
     background: #fafafa;

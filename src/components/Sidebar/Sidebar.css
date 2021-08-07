@@ -1,7 +1,7 @@
 .sidebar{
     flex:0.2;
 }
-.sidebar >r{
+.sidebar >hr{
     height: 1px;
     border: 0 ;
     background-color: lightgray;
