@@ -32,7 +32,7 @@
 }
 
 .header-input-button{
-    width: 20% !important; 
+    /* width: 20% !important;  */
     background: #fafafa;
     border-left: 1px solid lightgray;
     color: gray;
