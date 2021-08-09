@@ -1,7 +1,8 @@
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
-const firebaseConfig = {
+  const firebaseConfig = {
     apiKey: "AIzaSyDse0enk8N5OmOQjn83k62qSNOIjS6VlhY",
     authDomain: "clone-71bdf.firebaseapp.com",
+    databaseURL: "https://clone-71bdf-default-rtdb.asia-southeast1.firebasedatabase.app",
     projectId: "clone-71bdf",
     storageBucket: "clone-71bdf.appspot.com",
     messagingSenderId: "1015479594647",
