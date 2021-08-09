@@ -15,7 +15,7 @@ function Header() {
             <div classname="header-left">
                 <MenuIcon />
                 <Link to="/">
-                    <img className="header-logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuRSWPihDnU_BrXq_fWOgSGlzv09s-qjBgJg&usqp=CAU" />
+                    <img className="header-logo" src="/images/youtubeLogo.png" />
                 </Link>
             </div>
             
