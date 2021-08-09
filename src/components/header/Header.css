@@ -10,7 +10,8 @@
     
 }
 .header-logo{
-    height: 25px;
+    align-items: center;
+    height: 24px;
     margin-left: 20px;
     object-fit: contain;
 }
@@ -39,9 +40,11 @@
 }
 .header-icons{
     display: flex;
+    flex-shrink: 1;
     align-items: center;
 }
 .header-icon{
+    flex-shrink: 2;
     margin-right: 20px;
 
 }
