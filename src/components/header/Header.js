@@ -13,9 +13,9 @@ function Header() {
     return (
         <div className="header">
             <div classname="header-left">
-                <MenuIcon />
+                <MenuIcon className="menu-icon" />
                 <Link to="/">
-                    <img className="header-logo" src="/images/youtubeLogo.png" />
+                    <img className="header-logo" alt="logo" src="/images/youtubeLogo.png" />
                 </Link>
             </div>
             
@@ -24,6 +24,7 @@ function Header() {
                 <Link to={`/search/${inputSearch}`}>
                     <SearchIcon className="header-input-button" />
                 </Link>
+               
             </div>
             <div className="header-icons">
                 <VideoCallIcon className="header-icon" />

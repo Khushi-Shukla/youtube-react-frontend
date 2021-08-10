@@ -1,15 +1,18 @@
 .header{
     display: flex;
+    flex: 1;
+    width: 100%;
     align-items: center;
     justify-content: space-between;
     padding: 20px;
-    position: sticky;
+    position: fixed;
     top: 0;
     z-index: 100;
     background: white;
     
 }
 .header-logo{
+    max-width: fit-content;
     align-items: center;
     height: 24px;
     margin-left: 20px;
@@ -18,9 +21,10 @@
  
 .header-input{
     display: flex;
+    position:relative;
     align-items: center;
     width: 40%;
-    height: 30px;
+    height: 28px;
     border: 1px solid lightgray;
     
 }
@@ -37,14 +41,42 @@
     background: #fafafa;
     border-left: 1px solid lightgray;
     color: gray;
+    
 }
 .header-icons{
     display: flex;
-    flex-shrink: 1;
     align-items: center;
+    justify-content: space-around;
+    margin-right: 19px;
 }
 .header-icon{
-    flex-shrink: 2;
     margin-right: 20px;
+}
 
+@media screen and (max-width: 680px){
+    
+    .header-logo{
+        width: 55%;
+    }
+    .header-input{
+        display:inline-flex;
+        flex: 1 1 1;
+        justify-content: space-around;
+        align-items: center;
+        height: 15%;
+    }
+    .header-input-button{
+        width: 20px !important;
+       }
+   
+   .menu-icon{
+       width: 20% !important;
+   }
+
+   .header-icon{
+    width: 1.1rem !important;
+    height: 1.1rem !important;
+    margin-right: 7px;
+    justify-content: space-around;
+}
 }
