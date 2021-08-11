@@ -13,7 +13,7 @@ function SearchPage() {
             </div>
             <hr />
             <ChannelRow 
-                image= "/images/searchLogo.png"
+                image={process.env.PUBLIC_URL +  "/images/searchLogo.png"}
                 channel="The Coder"
                 verified="true"
                 subs="108k"
@@ -23,7 +23,7 @@ function SearchPage() {
             
             <VideoRow
                 views="3,45,323"
-                image="/images/search1.jpg" 
+                image={process.env.PUBLIC_URL +  "/images/search1.jpg" }
                 channel="Geek Coder"
                 title="Implementing Skeleton Screens In React" 
                 subs="922K" 
@@ -33,7 +33,7 @@ function SearchPage() {
 
             <VideoRow
                 views="71,103 "
-                image="/images/search2.jpg" 
+                image={process.env.PUBLIC_URL + "/images/search2.jpg" }
                 channel="Pro Developer"
                 title="Understanding React's UI Rendering Process" 
                 subs="452K" 
@@ -43,7 +43,7 @@ function SearchPage() {
             
             <VideoRow
                 views="76,985"
-                image="/images/search3.jpg" 
+                image={process.env.PUBLIC_URL + "/images/search3.jpg" }
                 channel="Smplified Learning"
                 title="Junior Vs Senior Code - How To Write Better Code As A Web Developer - React" 
                 subs="102K" 
@@ -53,7 +53,7 @@ function SearchPage() {
              
              <VideoRow
                 views="333,605"
-                image="/images/search4.jpg" 
+                image={process.env.PUBLIC_URL + "/images/search4.jpg" }
                 channel="Code Fire"
                 title="10 React Hooks Explained // Plus Build your own from Scratch" 
                 subs="773K" 
@@ -63,7 +63,7 @@ function SearchPage() {
 
             <VideoRow
                 views="306,529"
-                image="/images/search5.jpg" 
+                image={process.env.PUBLIC_URL + "/images/search5.jpg" }
                 channel="Code Easy"
                 title=" Code your first React app | Beginner React app | To Do List" 
                 subs="200K" 

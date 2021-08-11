@@ -15,7 +15,7 @@ function Header() {
             <div classname="header-left">
                 <MenuIcon className="menu-icon" />
                 <Link to="/">
-                    <img className="header-logo" alt="logo" src="/images/youtubeLogo.png" />
+                    <img className="header-logo" alt="logo" src={process.env.PUBLIC_URL +"/images/youtubeLogo.png"} />
                 </Link>
             </div>
             
