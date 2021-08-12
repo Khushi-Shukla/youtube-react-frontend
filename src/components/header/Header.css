@@ -29,7 +29,7 @@
     
 }
 
-.header-input > input{
+.header-input-input {
     flex: 1;
     border: none;
     outline: none;
@@ -37,7 +37,7 @@
 }
 
 .header-input-button{
-    /* width: 20% !important;  */
+    width: 20px !important; 
     background: #fafafa;
     border-left: 1px solid lightgray;
     color: gray;
@@ -60,7 +60,7 @@
     }
     .header-input{
         display:inline-flex;
-        flex: 1 1 1;
+        width: clamp(15%, 20%, 40%);
         justify-content: space-around;
         align-items: center;
         height: 15%;

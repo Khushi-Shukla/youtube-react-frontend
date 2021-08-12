@@ -29,3 +29,10 @@
 .sidebar-row.selected > .sidebar-row-title{
     font-weight: bold;
 }
+
+@media screen and (max-width: 650px){
+    .sidebar-row-title{
+        display: none;
+        flex: 0.2;
+    }
+}
