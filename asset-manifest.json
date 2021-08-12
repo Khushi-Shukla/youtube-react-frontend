@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Khushi-Shukla/youtube-react-frontend/static/css/main.c1c7bbe4.chunk.css",
-    "main.js": "/Khushi-Shukla/youtube-react-frontend/static/js/main.4896a096.chunk.js",
-    "main.js.map": "/Khushi-Shukla/youtube-react-frontend/static/js/main.4896a096.chunk.js.map",
-    "runtime-main.js": "/Khushi-Shukla/youtube-react-frontend/static/js/runtime-main.887eaf72.js",
-    "runtime-main.js.map": "/Khushi-Shukla/youtube-react-frontend/static/js/runtime-main.887eaf72.js.map",
-    "static/js/2.109e0789.chunk.js": "/Khushi-Shukla/youtube-react-frontend/static/js/2.109e0789.chunk.js",
-    "static/js/2.109e0789.chunk.js.map": "/Khushi-Shukla/youtube-react-frontend/static/js/2.109e0789.chunk.js.map",
-    "static/js/3.83122885.chunk.js": "/Khushi-Shukla/youtube-react-frontend/static/js/3.83122885.chunk.js",
-    "static/js/3.83122885.chunk.js.map": "/Khushi-Shukla/youtube-react-frontend/static/js/3.83122885.chunk.js.map",
+    "main.css": "/Khushi-Shukla/youtube-react-frontend/static/css/main.24f87a61.chunk.css",
+    "main.js": "/Khushi-Shukla/youtube-react-frontend/static/js/main.ee592caf.chunk.js",
+    "main.js.map": "/Khushi-Shukla/youtube-react-frontend/static/js/main.ee592caf.chunk.js.map",
+    "runtime-main.js": "/Khushi-Shukla/youtube-react-frontend/static/js/runtime-main.9b0fbe97.js",
+    "runtime-main.js.map": "/Khushi-Shukla/youtube-react-frontend/static/js/runtime-main.9b0fbe97.js.map",
+    "static/js/2.a5190ca7.chunk.js": "/Khushi-Shukla/youtube-react-frontend/static/js/2.a5190ca7.chunk.js",
+    "static/js/2.a5190ca7.chunk.js.map": "/Khushi-Shukla/youtube-react-frontend/static/js/2.a5190ca7.chunk.js.map",
+    "static/js/3.f13ee107.chunk.js": "/Khushi-Shukla/youtube-react-frontend/static/js/3.f13ee107.chunk.js",
+    "static/js/3.f13ee107.chunk.js.map": "/Khushi-Shukla/youtube-react-frontend/static/js/3.f13ee107.chunk.js.map",
     "index.html": "/Khushi-Shukla/youtube-react-frontend/index.html",
-    "static/css/main.c1c7bbe4.chunk.css.map": "/Khushi-Shukla/youtube-react-frontend/static/css/main.c1c7bbe4.chunk.css.map",
-    "static/js/2.109e0789.chunk.js.LICENSE.txt": "/Khushi-Shukla/youtube-react-frontend/static/js/2.109e0789.chunk.js.LICENSE.txt"
+    "static/css/main.24f87a61.chunk.css.map": "/Khushi-Shukla/youtube-react-frontend/static/css/main.24f87a61.chunk.css.map",
+    "static/js/2.a5190ca7.chunk.js.LICENSE.txt": "/Khushi-Shukla/youtube-react-frontend/static/js/2.a5190ca7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.887eaf72.js",
-    "static/js/2.109e0789.chunk.js",
-    "static/css/main.c1c7bbe4.chunk.css",
-    "static/js/main.4896a096.chunk.js"
+    "static/js/runtime-main.9b0fbe97.js",
+    "static/js/2.a5190ca7.chunk.js",
+    "static/css/main.24f87a61.chunk.css",
+    "static/js/main.ee592caf.chunk.js"
   ]
 }
